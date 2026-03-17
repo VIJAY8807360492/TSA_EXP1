@@ -1,5 +1,5 @@
 # Ex.No: 01 PLOT A TIME SERIES DATA
-###  Date: 
+###  Date: 15.03.2026
 
 # AIM:
 To Develop a python program to Plot a time series dataplot of the gold price, I'll use the "Date" and "Price Today" columns.
